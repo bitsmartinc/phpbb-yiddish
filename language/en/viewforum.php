@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Active topics',
+	'ACTIVE_TOPICS'			=> 'אקטיווע טעמעס',
 	'ANNOUNCEMENTS'			=> 'Announcements',
 
 	'FORUM_PERMISSIONS'		=> 'Forum permissions',
